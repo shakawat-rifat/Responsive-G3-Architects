@@ -194,5 +194,62 @@ width: 445px;
 }
 /* forth-box-layout */
 .forth-box-title{
-   margin-right: 200px;
+position: absolute;
+    width: 258px;
+    height: 53px;
+    left: 165px;
+    bottom:-200px;
+    font-weight: 700;
+        font-size: 45px;
+}
+.forth-box-des{
+    position: absolute;
+        width: 542px;
+        height: 52px;
+        left: 165px;
+      bottom: -230px;
+    font-weight: 400;
+        font-size: 16px;
+        color: #727272;
+}
+/* Section-facts */
+.facts{
+    box-sizing: border-box;
+        position: absolute;
+        width: 241.83px;
+
+        left: 264.92px;
+       bottom: -510px;
+       display: flex;
+       gap: 240px;
+       padding: 30px;
+       display: flex;
+}
+.skill{
+    box-sizing: border-box;
+    border: 1px solid #FF900E;
+        border-radius: 8px;
+    
+}
+.skill-num{
+font-weight: 600;
+    font-size:35px;
+}
+.skill-title{
+font-weight: 600;
+    font-size: 15px;
+}
+.last-para{
+position: absolute;
+    width: 620px;
+    height: 23px;
+    left: 570px;
+    top: 1800px;
+    
+}
+.last-para-box{
+    box-sizing: border-box;
+    background: #FFF4E7;
+        border-radius: 8px;
+      
 }
