@@ -244,7 +244,7 @@ position: absolute;
     width: 620px;
     height: 23px;
     left: 570px;
-    top: 1800px;
+    top: 2065px;
     
 }
 .last-para-box{
@@ -253,3 +253,61 @@ position: absolute;
         border-radius: 8px;
       
 }
+
+/* sponser */
+.ing-1{
+position: absolute;
+    width: 153.33px;
+    height: 50px;
+    left: 180px;
+    top: 1970px;
+}
+.ing-2{
+    position: absolute;
+        width: 153.33px;
+        height: 50px;
+        left: 435px;
+        top: 1983px;
+    
+}
+.ing-3{
+position: absolute;
+    width: 153.33px;
+    height: 50px;
+    left: 690px;
+    top: 1976px;
+}
+.ing-4{
+position: absolute;
+    width: 153.33px;
+    height: 50px;
+    left: 960px;
+    top: 1978px;
+}
+.ing-5{
+position: absolute;
+    width: 153.33px;
+    height: 50px;
+    left: 1180px;
+    top: 1980px;
+}
+/* fifth-box */
+.fifth-title {
+    position: absolute;
+    width: 327px;
+    height: 53px;
+    left: 627px;
+    top: 1785px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.fifth-para {
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 555px;
+    top: 1875px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;}
