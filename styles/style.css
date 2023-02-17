@@ -143,6 +143,7 @@ line-height: 26px;
 margin-bottom:-120px;
 
 }  
+/* box-layout */
 .box-one{
     padding-left: 165px;
     background: #FFFFFF;
@@ -185,7 +186,13 @@ color: #727272;
 color: #727272;
 }
 .architects{
- 
-    margin-left: 600px;
-    padding-left: 300px;
+ position: absolute;
+width: 445px;
+    height: 660px;
+    left: 835px;
+        bottom: 62px;
+}
+/* forth-box-layout */
+.forth-box-title{
+   margin-right: 200px;
 }
